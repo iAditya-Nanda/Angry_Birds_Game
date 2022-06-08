@@ -1,1 +1,2 @@
-# python_code_iAditya-Nanda
+# Angry Birds game
+this game is made in python
