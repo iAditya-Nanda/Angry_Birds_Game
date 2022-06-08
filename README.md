@@ -4,5 +4,5 @@ Enjoy 🙂<br>
 **Thanks** <hr>
 <h3>Aditya Nanda</h3>
 
-Moderator at Niotron [Visit Niotron](niotron.com)
-Niotron Community [Visit Community](community.niotron.com)
+Moderator at Niotron [niotron.com](https://niotron.com)
+Niotron Community [community.niotron.com](https://community.niotron.com)
